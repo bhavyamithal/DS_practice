@@ -1,0 +1,64 @@
+Path: ML\5_TrainTestSplit.ipynb
+Train Test Split
+Path: ML\6_FeatureScaling.ipynb
+Feature Scaling
+Path: ML\7_SimpleLinearRegression.ipynb
+Simple Linear Regression
+Path: ML\8_MultipleLinearRegression.ipynb
+Multiple Linear Regression
+Path: ML\9_PolynomialRegression.ipynb
+Polynomial Regression
+Path: ML\10_SupportVectorRegression.ipynb
+Support Vector Regression
+Path: ML\11_DecisionTreeRegression.ipynb
+Decision Tree Regression
+Path: ML\12_RandomForestRegression.ipynb
+Random Forest Regression
+Path: ML\13_LogisticRegression.ipynb
+Logistic Regression
+Path: ML\14_KNearestNeighbors.ipynb
+K-Nearest Neighbors
+Path: ML\15_SupportVectorMachine.ipynb
+Support Vector Machine
+Path: ML\16_NaiveBayes.ipynb
+Naive Bayes
+Path: ML\17_DecisionTreeClassification.ipynb
+Decision Tree Classification
+Path: ML\18_RandomForestClassification.ipynb
+Random Forest Classification
+Path: ML\19_KMeansClustering.ipynb
+K-Means Clustering
+Path: ML\20_HierarchicalClustering.ipynb
+Hierarchical Clustering
+Path: ML\21_AssociationRuleLearning.ipynb
+Association Rule Learning
+Path: ML\22_ReinforcementLearning.ipynb
+Reinforcement Learning
+Path: ML\23_NaturalLanguageProcessing.ipynb
+Natural Language Processing
+Path: ML\24_DeepLearning.ipynb
+Deep Learning
+Path: ML\25_DimensionalityReduction.ipynb
+Dimensionality Reduction
+Path: ML\26_ModelSelection&Boosting.ipynb
+Model Selection & Boosting
+Path: ML\27_XGBoost.ipynb
+XGBoost
+Path: ML\28_LightGBM.ipynb
+LightGBM
+Path: ML\29_CatBoost.ipynb
+CatBoost
+Path: ML\30_ArtificialNeuralNetworks.ipynb
+Artificial Neural Networks
+Path: ML\31_CNN.ipynb
+CNN
+Path: ML\32_RNN.ipynb
+RNN
+Path: ML\33_SelfOrganizingMaps.ipynb
+Self Organizing Maps
+Path: ML\34_RecurrentNeuralNetworks.ipynb
+Recurrent Neural Networks
+Path: ML\35_BoltzmannMachines.ipynb
+Boltzmann Machines
+Path: ML\36_AutoEncoders.ipynb
+AutoEncoders
